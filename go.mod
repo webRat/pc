@@ -8,5 +8,6 @@ require (
 	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf // indirect
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/olekukonko/tablewriter v0.0.1
+	github.com/stretchr/testify v1.7.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
